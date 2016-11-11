@@ -1,1 +1,42 @@
-/* Inserta tu código aqui */
+/* Inserta tu codigo aqui */
+/**{outline:1px solid rgba(255,0,0,0.3);}*/
+body{font-family: Arial;}
+.contenedor{width: 94%; margin: 0 auto;}
+.cabezera{background: #333;}
+
+.logo{padding: 10px; max-width: 100%;}
+.sin-estilo {padding:0px; margin:10px 0px; list-style: none;}
+.cabezera .menu{top: 50px;} 
+.cabezera .col-9{margin-right: -150px;  right: 50%; margin-top: 30px;}
+.logo{max-width: 100px; } 
+
+.estilo-menu{display: inline-block; padding: 6px; color: #fff; font-size: 12px;}
+.episodios{background: #E6E6E6; border-bottom: 1px solid #333;}
+.episodios h2{display: inline-block;}
+.episodos a{font-size: 10px; color: #0101DF; text-decoration: none;display: inline-block;}
+
+.estilo-episodios{display: inline-block; width: 238px; padding: 6px 12px; text-align: center;}
+.estilo-episodios img{max-width: 100%;border: 1px solid #E6E6E6;display: inline-block;}
+
+.lista-galeria{display: inline-block; width: 115px; padding: 10px;}
+.lista-galeria img{max-width: 100%; border: 1px solid #E6E6E6;}
+.opciones li{border-bottom: 1px solid #333; margin:22px 25px;}
+.opciones img{width: 20px; height: 20px; display: inline-block; margin: 2px;}
+
+.pie{background: #333; color: #fff; text-align: center; padding: 20px 15px;}
+.pie li{display: inline-block;padding: 2px; margin:15px;color: #D8D8D8;}
+.pie span{color: #D8D8D8; }
+.pie:first-child{color:#FAFAFA;}
+.pie:last-child{color:#A4A4A4;}
+
+.texto-azul{color: #3645BC;}
+.texto-gris{color: #35363C;}
+
+.texto9{font-size: 9px;}
+.texto10{font-size: 10px;}
+.texto12{font-size: 12px;}
+.derecha{float: right;}
+.texto-centro{text-align: center;}
+.mgt-25{margin-top: 25px;}
+.opciones span{color: #111;}
+
